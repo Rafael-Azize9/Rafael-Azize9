@@ -7,6 +7,10 @@
 </p>
 
 <p align="center">
+  <img src="https://media1.tenor.com/m/j9j9tr_YPBYAAAAd/pain-naruto.gif" width="260" alt="Pain - Naruto" />
+</p>
+
+<p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,py,git&theme=dark" alt="skills" />
 </p>
 
@@ -26,6 +30,10 @@
   <a href="mailto:rafael.azize9@gmail.com">
     <img src="https://img.shields.io/badge/Email-071a33?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Email" />
   </a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Rafael-Azize9&color=1D70C9&style=flat-square&label=Visualizações+do+perfil" alt="Visitor count" />
 </p>
 
 <p align="center">
