@@ -11,11 +11,6 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-eight.vercel.app/api?username=Rafael-Azize9&show_icons=true&hide_border=true&bg_color=071a33&title_color=39B9FF&icon_color=1D70C9&text_color=C6D5E5&border_radius=12" width="48%" alt="GitHub stats" />
-  <img src="https://github-readme-stats-sigma-eight.vercel.app/api/top-langs/?username=Rafael-Azize9&layout=compact&hide_border=true&bg_color=071a33&title_color=39B9FF&text_color=C6D5E5&border_radius=12" width="34%" alt="Top languages" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rafael-Azize9&hide_border=true&background=071a33&ring=1D70C9&fire=39B9FF&currStreakLabel=39B9FF&sideLabels=C6D5E5&dates=8AA0B8&border=0" alt="GitHub streak" />
 </p>
 
