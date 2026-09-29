@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <img src="https://media1.tenor.com/m/j9j9tr_YPBYAAAAd/pain-naruto.gif" width="260" alt="Pain - Naruto" />
+  <img src="https://media1.tenor.com/m/HiiuXL9dNroAAAAd/naruto-pain.gif" width="260" alt="Pain - Naruto" />
 </p>
 
 <p align="center">
@@ -32,9 +32,6 @@
   </a>
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Rafael-Azize9&color=1D70C9&style=flat-square&label=Visualizações+do+perfil" alt="Visitor count" />
-</p>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1d70c9,100:071a33&height=100&section=footer" alt="footer" />
