@@ -1,21 +1,38 @@
-# Rafael Azize
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:071a33,100:1d70c9&height=200&section=header&text=Rafael%20Azize&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Desenvolvedor%20Full%20Stack&descAlignY=58&descSize=18" alt="header" />
+</p>
 
-Desenvolvedor focado em construir interfaces web limpas e funcionais.
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&color=1D70C9&center=true&vCenter=true&width=600&lines=Construindo+interfaces+web+limpas;HTML+%C2%B7+CSS+%C2%B7+JavaScript+%C2%B7+TypeScript;React+%C2%B7+Node.js+%C2%B7+Python" alt="Typing SVG" />
+</p>
 
-**Tecnologias:**
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,py&theme=dark" alt="skills" />
+</p>
 
-![HTML5](https://img.shields.io/badge/HTML5-1d2733?style=flat-square&logo=html5&logoColor=E34F26)
-![CSS3](https://img.shields.io/badge/CSS3-1d2733?style=flat-square&logo=css3&logoColor=1572B6)
-![JavaScript](https://img.shields.io/badge/JavaScript-1d2733?style=flat-square&logo=javascript&logoColor=F7DF1E)
-![TypeScript](https://img.shields.io/badge/TypeScript-1d2733?style=flat-square&logo=typescript&logoColor=3178C6)
-![React](https://img.shields.io/badge/React-1d2733?style=flat-square&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-1d2733?style=flat-square&logo=node.js&logoColor=339933)
-![Python](https://img.shields.io/badge/Python-1d2733?style=flat-square&logo=python&logoColor=3776AB)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Rafael-Azize9&show_icons=true&hide_border=true&bg_color=071a33&title_color=39B9FF&icon_color=1D70C9&text_color=C6D5E5&border_radius=12" width="48%" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rafael-Azize9&layout=compact&hide_border=true&bg_color=071a33&title_color=39B9FF&text_color=C6D5E5&border_radius=12" width="34%" alt="Top languages" />
+</p>
 
-## Projetos
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rafael-Azize9&hide_border=true&background=071a33&ring=1D70C9&fire=39B9FF&currStreakLabel=39B9FF&sideLabels=C6D5E5&dates=8AA0B8&border=0" alt="GitHub streak" />
+</p>
 
-- **[grupo-azize](https://github.com/Rafael-Azize9/grupo-azize)** — Site institucional responsivo para assessoria previdenciária, com política de privacidade em conformidade com a LGPD.
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Rafael-Azize9/Rafael-Azize9/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Rafael-Azize9/Rafael-Azize9/output/github-contribution-grid-snake.svg" />
+    <img alt="snake animation" src="https://raw.githubusercontent.com/Rafael-Azize9/Rafael-Azize9/output/github-contribution-grid-snake.svg" />
+  </picture>
+</p>
 
-## Contato
+<p align="center">
+  <a href="mailto:rafael.azize9@gmail.com">
+    <img src="https://img.shields.io/badge/Email-071a33?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Email" />
+  </a>
+</p>
 
-- E-mail: [rafael.azize9@gmail.com](mailto:rafael.azize9@gmail.com)
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1d70c9,100:071a33&height=100&section=footer" alt="footer" />
+</p>
